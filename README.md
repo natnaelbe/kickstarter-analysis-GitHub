@@ -9,6 +9,7 @@ I followed the steps based on the modules and I believe the modules help guide m
 
 ### Analysis of Outcomes Based on Launch Date
 How I accomplished this was through following an outline provided in the module and assuring that the images provided matched my findings.
+![Theater_Outcomes_Based_on_Launch_Date](https://user-images.githubusercontent.com/89429991/208783893-c3255938-a93d-44d2-85d3-86def11a3305.png)
 
 ### Analysis of Outcomes Based on Goals
 I accessed the countifs function for columns B, C, and D. I then performed arithmetic on columns E, F, G, and H. Then, I uploaded my chart where my results were visually displayed.

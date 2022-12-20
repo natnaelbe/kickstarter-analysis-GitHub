@@ -13,6 +13,8 @@ How I accomplished this was through following an outline provided in the module 
 
 ### Analysis of Outcomes Based on Goals
 I accessed the countifs function for columns B, C, and D. I then performed arithmetic on columns E, F, G, and H. Then, I uploaded my chart where my results were visually displayed.
+![image](https://user-images.githubusercontent.com/89429991/208785151-9a038ff0-3e5b-49fa-b9f5-58ec13de8150.png)
+
 
 ### Challenges and Difficulties Encountered
 Applying the functional operations from the examples provided.

@@ -26,10 +26,13 @@ Applying the functional operations from the examples provided.
 2. Live performances only occurred for the first three months.
 
 - What can you conclude about the Outcomes based on Goals?
+
 The percentage amount of successful goals outweighed failed goals.
 
 - What are some limitations of this dataset?
+
 It would be better to represent the same data in a different type of graph. For example, a line graph and a pie chart can be represented for the same data to stand out.
 
 - What are some other possible tables and/or graphs that we could create?
+
 A pie chart demonstrating the percentages, a venn diagram could be possible to look at overlapping data.
